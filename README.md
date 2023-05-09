@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello! 👋
+
+My name is Dominic and I'm a self-taught software developer currently on a quest to master everything related to Web Development. I recently left a career in Finance and have reignited a genuine joy for my work. When I experiment with a new tool, learn a new trick, or see my ideas in action, I'm reminded that passion and work aren't mutually exclusive. 
+
+Take a look at some of my projects below 👇
+
 
 <!--
 **domsantini/domsantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
