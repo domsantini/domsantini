@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Dominic and I'm a self-taught software developer currently on a quest to master everything related to Web Development. I recently left a career in Finance and have reignited a genuine joy for my work. When I experiment with a new tool, learn a new trick, or see my ideas in action, I'm reminded that passion and work aren't mutually exclusive. 
+My name is Dominic and I'm a self-taught software developer currently on a quest to master everything related to Web Development. I recently left a career in Finance and have reignited a genuine joy for my work. 
 
 Take a look at some of my projects below 👇
 
